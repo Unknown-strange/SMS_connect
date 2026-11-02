@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.sqlite3*
+devices.json
+.env
+local.properties
+.gradle/
+**/build/
+*.jks
+*.keystore
