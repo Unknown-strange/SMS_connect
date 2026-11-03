@@ -1,6 +1,5 @@
-# FineFlow Bridge: Android SMS to administrator WhatsApp
+# SMS_connect Bridge: Android SMS to administrator WhatsApp
 
-Prepared for Percy Kpodo and Copson. Pilot source, version 0.1.
 
 ## What has been delivered
 
